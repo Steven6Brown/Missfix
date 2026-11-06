@@ -20,11 +20,6 @@ A practice-session companion for the driving range: log your shots, find the pat
 
 ## How it will work
 
-```mermaid
-flowchart LR
-  A["Log each shot: club + where it went"] --> B["Deterministic pattern-finder counts tendencies per club"] --> C["Main miss is identified once there is enough data"] --> D["One drill from a curated library is recommended"]
-```
-
 ## Planned features
 
 - Fast, manual shot logging built for the range
